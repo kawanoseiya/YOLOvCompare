@@ -1,0 +1,2 @@
+# YOLOvCompare
+YOLOのバージョン比較を行うためのリポジトリ
